@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selenium-4-xunit-c-sharp", "selenium-4-xunit-c-sharp\selenium-4-xunit-c-sharp.csproj", "{9E91775F-F5E0-4A6A-8F96-DE12D205BE21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E91775F-F5E0-4A6A-8F96-DE12D205BE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E91775F-F5E0-4A6A-8F96-DE12D205BE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E91775F-F5E0-4A6A-8F96-DE12D205BE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E91775F-F5E0-4A6A-8F96-DE12D205BE21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C7C46E-720D-4792-AA8B-C628F8D37C14}
+	EndGlobalSection
+EndGlobal
